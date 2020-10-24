@@ -2,7 +2,7 @@
   "name": "router-bootstrap-tutorial",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://kieran815.github.io/router-bootstrap-tutorial",
+  "homepage": "https://Kieran815.github.io/router-bootstrap-tutorial",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.5",
     "@testing-library/react": "^11.1.0",
