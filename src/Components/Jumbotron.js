@@ -34,7 +34,7 @@ const Jumbotron = () => {
         <div className="overlay"></div>
         <Container>
           <h1>Learning React-Router-Dom and Styled Components</h1>
-          <p>I'm In It, Now...</p>
+          <p>I'm In It, Now...npm</p>
         </Container>
       </Jumbo>
     </Styles>
