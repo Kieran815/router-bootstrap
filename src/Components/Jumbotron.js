@@ -7,6 +7,7 @@ const Styles = styled.div`
   .jumbo {
     background: url(${banner});
     background-size: cover;
+    background-position: center;
     color: #ccc;
     height: 200px;
     position: relative;
@@ -32,8 +33,8 @@ const Jumbotron = () => {
       <Jumbo fluid className="jumbo">
         <div className="overlay"></div>
         <Container>
-          <h1>Fucking Right</h1>
-          <p>Learning React-Router-Dom</p>
+          <h1>Learning React-Router-Dom and Styled Components</h1>
+          <p>I'm In It, Now...</p>
         </Container>
       </Jumbo>
     </Styles>
