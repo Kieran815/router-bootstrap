@@ -1,21 +1,21 @@
 {
   "files": {
     "main.css": "/router-bootstrap-tutorial/static/css/main.ab7136cd.chunk.css",
-    "main.js": "/router-bootstrap-tutorial/static/js/main.3de9ce99.chunk.js",
-    "main.js.map": "/router-bootstrap-tutorial/static/js/main.3de9ce99.chunk.js.map",
+    "main.js": "/router-bootstrap-tutorial/static/js/main.6ef17fa8.chunk.js",
+    "main.js.map": "/router-bootstrap-tutorial/static/js/main.6ef17fa8.chunk.js.map",
     "runtime-main.js": "/router-bootstrap-tutorial/static/js/runtime-main.cbebf651.js",
     "runtime-main.js.map": "/router-bootstrap-tutorial/static/js/runtime-main.cbebf651.js.map",
-    "static/js/2.f703c836.chunk.js": "/router-bootstrap-tutorial/static/js/2.f703c836.chunk.js",
-    "static/js/2.f703c836.chunk.js.map": "/router-bootstrap-tutorial/static/js/2.f703c836.chunk.js.map",
+    "static/js/2.9fd40644.chunk.js": "/router-bootstrap-tutorial/static/js/2.9fd40644.chunk.js",
+    "static/js/2.9fd40644.chunk.js.map": "/router-bootstrap-tutorial/static/js/2.9fd40644.chunk.js.map",
     "index.html": "/router-bootstrap-tutorial/index.html",
     "static/css/main.ab7136cd.chunk.css.map": "/router-bootstrap-tutorial/static/css/main.ab7136cd.chunk.css.map",
-    "static/js/2.f703c836.chunk.js.LICENSE.txt": "/router-bootstrap-tutorial/static/js/2.f703c836.chunk.js.LICENSE.txt",
+    "static/js/2.9fd40644.chunk.js.LICENSE.txt": "/router-bootstrap-tutorial/static/js/2.9fd40644.chunk.js.LICENSE.txt",
     "static/media/inner_page_bnr.6e379acd.jpg": "/router-bootstrap-tutorial/static/media/inner_page_bnr.6e379acd.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.cbebf651.js",
-    "static/js/2.f703c836.chunk.js",
+    "static/js/2.9fd40644.chunk.js",
     "static/css/main.ab7136cd.chunk.css",
-    "static/js/main.3de9ce99.chunk.js"
+    "static/js/main.6ef17fa8.chunk.js"
   ]
 }
